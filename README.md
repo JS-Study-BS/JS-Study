@@ -15,6 +15,8 @@
 - **22/12/12** : 17, 18, 19, 20강
 - **22/12/19** : 21, 22, 24, 24, 25, 26강
 
+## 🧸 스터디원
+
 <table>
   <tr>
    <td align="center"><a href="https://github.com/ekki88"><img src="https://avatars.githubusercontent.com/u/96987560?v=4" width="100px;" alt=""/>
