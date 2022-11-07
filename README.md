@@ -1,4 +1,13 @@
 # 🧸 JS Study
+<table>
+  <tr>
+   <td align="center"><a href="https://github.com/ekki88"><img src="https://avatars.githubusercontent.com/u/96987560?v=4" width="100px;" alt=""/>
+   <br /><sub><b>ekki88</b><br></sub></a></td>
+   <td align="center"><a href="https://github.com/nimusmix"><img src="https://avatars.githubusercontent.com/u/109320569?s=400" width="100px;" alt=""/>
+   <br /><sub><b>nimusmix</b><br></sub></a></td>
+  </tr>
+</table>
+
 
 - 매주 월요일 21:00
 - 학습한 내용으로 문제를 만들어 답안을 공유하는 방식으로 이해도 제고
